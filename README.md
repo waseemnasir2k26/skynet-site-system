@@ -2,6 +2,10 @@
 
 > **Distilled from 60 shipped client websites.** A complete website-design system for landing pages, agency demos, and freelance Upwork/Fiverr builds — niche-tuned design tokens, conversion-locked funnel, speculative-build pitch flow, and 3-variant client-pick lock with a sticky variant switcher.
 
+## Status
+
+Last reviewed: September 2026 · release v2026.09
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Built by SkynetLabs](https://img.shields.io/badge/Built%20by-SkynetLabs-0F0E0D.svg)](https://www.skynetjoe.com)
 [![Sites Mined](https://img.shields.io/badge/Sites%20Mined-60-8B3A3A.svg)](#case-studies)
