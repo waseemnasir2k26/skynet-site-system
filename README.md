@@ -4,7 +4,7 @@
 
 ## Status
 
-Last reviewed: September 2026 · release v2026.09
+Last reviewed: October 2026 · release v2026.10
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Built by SkynetLabs](https://img.shields.io/badge/Built%20by-SkynetLabs-0F0E0D.svg)](https://www.skynetjoe.com)
@@ -256,3 +256,12 @@ GitHub: [@waseemnasir2k26](https://github.com/waseemnasir2k26)
 ## Keywords
 
 `website-design` `landing-page` `freelance-playbook` `design-system` `nextjs-template` `react-template` `tailwindcss` `framer-motion` `react-three-fiber` `r3f` `vercel` `upwork` `fiverr` `agency-toolkit` `claude-code` `claude-code-skill` `cursor` `v0` `ai-coding-agent` `design-tokens` `speculative-build` `conversion-optimization` `wedding-website` `wellness-website` `medical-website` `law-firm-website` `hvac-website` `dental-website` `restaurant-website`
+
+
+## Work with SkynetLabs
+
+Built by [Waseem Nasir](https://www.skynetjoe.com/?utm_source=github&utm_medium=readme&utm_campaign=skynet-site-system) at SkynetLabs — n8n + AI automation for small businesses.
+
+- Hire on Fiverr: https://www.fiverr.com/agencies/skynetjoellc
+- Hire on Upwork: https://www.upwork.com/freelancers/muhammadwaseemnasir
+- Book a free call: https://calendly.com/skynetlabs/schedule-a-free-consultation

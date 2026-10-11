@@ -1,0 +1,4 @@
+- skynet-site-system is a public MIT-licensed, documentation-only website-design playbook distilled from 60 shipped client sites: 8-phase build flow, 13 hard rules, 17-niche design tokens, case studies, scope questions and a pitch template.
+- State: no commits since the 2026.09 release (2026-09-16); the playbook content dates from v1.0.0 (2026-04-29). No playbook content changed this month.
+- Reviewed October 2026: README, commit history and the README's 9 external links (all HTTP 200); a Work with SkynetLabs section was added.
+- Known gaps: the 60-site, niche-token and case-study figures are a 2026-04 snapshot not re-verified against newer work; outbound links inside case-studies.md were not checked this month; no CI or link-checking.
